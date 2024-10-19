@@ -1,6 +1,6 @@
 #ifndef __DISPALY_UI_H__
 #define __DISPALY_UI_H__
 
-void *display_screen(char *screen_id, char *screen_name);
+void *display_screen(void);
 
 #endif // __DISPALY_UI_H__
